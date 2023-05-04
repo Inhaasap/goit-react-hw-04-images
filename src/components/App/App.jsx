@@ -9,7 +9,7 @@ import ImageGallery from 'components/ImageGallery';
 import Button from 'components/Button';
 import * as API from 'services/api';
 
-const API_KEY = '33614277-14313d1389d57b7e80a4c1e60';
+const API_KEY = '35789289-cb8210039172c6cb1d002435f';
 
 export default function App() {
   const [gallery, setGallery] = useState([]);
